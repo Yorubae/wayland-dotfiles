@@ -4,7 +4,7 @@
 Also ,Im going to add a shell script that will automatically replace your configs with mine
 
 # Issues
-if there's any issue you're facing from my dotfiles you can always sldie into inbox on *[Insta](https://www.instagram.com/based_ricky/)*
+if there's any issue you're facing from my dotfiles you can always slide into inbox on *[Insta](https://www.instagram.com/based_ricky/)*
 
 # How to use my dots?
 
