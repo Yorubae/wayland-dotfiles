@@ -4,7 +4,7 @@
 Also ,Im going to add a shell script that will automatically replace your configs with mine
 
 # Issues
-if there's any issue you're facing from my dotfiles you can always sldie into inbox on *[Insta](https://www.instagram.com/based_ricky/)*
+if there's any issue you're facing from my dotfiles you can always slide into my inbox on *[Insta](https://www.instagram.com/based_ricky/)*
 
 # How to use my dots?
 
@@ -20,9 +20,9 @@ Although im still working on it an quite new T-T
 
 ![image of my wm](/Screenshots/ss1.png)
 
-ikr, I still haven't riced the wibar it looks so ugly goddamit! heleappw 
+ikr, I still haven't riced the wibar it looks super ugly goddamit! HELPOWIWWJ
 
-Take more y'all
+Take more of it y'all
 
 ![Second one OMG](/Screenshots/ss2.png)
 
