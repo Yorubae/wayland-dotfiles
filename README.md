@@ -25,5 +25,3 @@ ikr, I still haven't riced the wibar it looks super ugly goddamit! HELPOWIWWJ
 Take more of it y'all
 
 ![Second one OMG](/Screenshots/ss2.png)
-
-![The final one for now](/Screenshots/ss3.png)
