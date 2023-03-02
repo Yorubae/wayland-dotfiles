@@ -4,9 +4,10 @@
 ## See, /usr/share/doc/alacritty/example/alacritty.yml
 
 ## Import files (Colors, Fonts, Etc)
-#import:
+import:
 #-~/.config/alacritty/colors/fail.yml
-    #- ~/.config/alacritty/fonts.yml
+    - ~/.config/alacritty/themes/ayu_dark.yaml
+  #- ~/.config/alacritty/colors/catppuccin.yml
 
 ## Set environment variables
 env:
@@ -14,17 +15,17 @@ env:
 
 font:
     normal:
-      family: Source Code Pro
+      family: JetBrains Mono Medium
  
     bold:
-      family: Source Code Pro
+      family: JetBrains Mono Medium
 
     italic:
-      family: Source Code Pro
- 
+      family: JetBrains Mono Medium
+
     bold_italic:
-      family: Source Code Pro
- 
+      family: JetBrains Mono Medium
+        
     size: 9
 
 ## Terminal window settings

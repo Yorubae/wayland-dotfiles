@@ -1,1 +1,0 @@
-/home/Rikari/.fzf/shell/key-bindings.fish

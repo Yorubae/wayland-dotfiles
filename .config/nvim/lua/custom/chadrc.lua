@@ -3,7 +3,7 @@
 local M = {}
 
 M.ui = {
-  theme = "onedark",
+  theme = "gatekeeper",
 }
 
 return M
