@@ -49,11 +49,11 @@ python INSTALL.py
 pretty easy right?
 
 # Preview
-Although im still working on it an quite new T-T
+Although im still working on it and quite new T-T
 
 ![image of my wm](/preview/ss4.png)
 
-ikr, I still haven't riced the wibar it looks super ugly goddamit! HELPOWIWWJ
+idk if its to your liking or not but im trying my best ^^
 
 ![ayy](/preview/ss3.png)
 
