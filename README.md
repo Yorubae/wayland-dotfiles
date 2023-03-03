@@ -39,6 +39,8 @@ Although im still working on it an quite new T-T
 
 ikr, I still haven't riced the wibar it looks super ugly goddamit! HELPOWIWWJ
 
+![ayy](/Screenshots/ss3.png)
+
 Take more of it y'all
 
 ![Second one OMG](/Screenshots/ss2.png)
