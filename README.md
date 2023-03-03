@@ -5,6 +5,22 @@ Also ,Im going to add a shell script that will automatically replace your config
 
 # Dependencies required
 
+wm  : ```hyprland```
+
+bar : ```waybar```
+
+text-editor : ```Nvim```
+
+launcher : ```wofi```
+
+prompt : ```starship```
+
+terminal : ```alacritty```
+
+music visualizer : ```cava```
+
+compositor : ```wayland```
+
 Before using these dotfiles, make sure you have the following dependencies installed on your system:
 
 ### Debian/Ubuntu
