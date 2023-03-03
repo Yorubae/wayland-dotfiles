@@ -51,14 +51,16 @@ pretty easy right?
 # Preview
 Although im still working on it an quite new T-T
 
-![image of my wm](/Screenshots/ss1.png)
+![image of my wm](/preview/ss4.png)
 
 ikr, I still haven't riced the wibar it looks super ugly goddamit! HELPOWIWWJ
 
-![ayy](/Screenshots/ss3.png)
+![ayy](/preview/ss3.png)
 
 Take more of it y'all
 
-![Second one OMG](/Screenshots/ss2.png)
+![Second one OMG](/preview/ss2.png)
+
+![ayy](/preview/ss1.png)
 
 I hope you find these dotfiles useful, and please feel free to contribute any improvements or suggestions!
