@@ -60,3 +60,5 @@ ikr, I still haven't riced the wibar it looks super ugly goddamit! HELPOWIWWJ
 Take more of it y'all
 
 ![Second one OMG](/Screenshots/ss2.png)
+
+I hope you find these dotfiles useful, and please feel free to contribute any improvements or suggestions!
