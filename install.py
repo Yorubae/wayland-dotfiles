@@ -44,7 +44,7 @@ else :
     sleep(2)
 
 banner() #calling out my banner HAHA
-packages = ["fish", "alacritty", "neofetch", "cava", "picom", "waybar", "starship", "rofi", "polybar", "nvim"] #Making a list for the packages :p
+packages = ["fish", "alacritty", "neofetch", "cava", "picom", "waybar", "starship", "rofi", "polybar", "nvim", "swaylock", "wlogout"] #Making a list for the packages :p
 def check_dependecy(package): #A function that checks for executeable file in the binary
     try:
         output = subprocess.check_output(['which', package])
