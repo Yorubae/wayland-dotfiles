@@ -44,7 +44,7 @@ else :
     sleep(2)
 
 banner() #calling out my banner HAHA
-packages = ["fish", "alacritty", "neofetch", "cava", "picom", "waybar", "starship", "rofi", "polybar", "nvim", "swaylock", "wlogout"] #Making a list for the packages :p
+packages = ["fish", "alacritty", "neofetch", "cava", "waybar", "starship", "rofi", "nvim", "swaylock"] #Making a list for the packages :p
 def check_dependecy(package): #A function that checks for executeable file in the binary
     try:
         output = subprocess.check_output(['which', package])
@@ -79,3 +79,4 @@ for file in os.listdir(config_path): #iterating through the oonfigs files in the
         print(f"{file} moved to {system_config}")
     else:
         print("Error: {new} is not a file neither a dir?!")
+
