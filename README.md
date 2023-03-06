@@ -5,27 +5,18 @@ Also ,Im going to add a shell script that will automatically replace your config
 
 # What am i using?
 
-compositor  : ```hyprland```
+* compositor  : ```hyprland```  
+* bar : ```waybar```  
+* text-editor : ```Nvim```  
+* session-locker : ```swaylock```  
+* prompt : ```starship```  
+* terminal : ```alacritty```  
+* music visualizer : ```cava```  
+* shell : ```fish```  
+* file manager : ```thunar```  
+* launcher/power menu : ```rofi```  
 
-bar : ```waybar```
-
-text-editor : ```Nvim```
-
-session-locker : ```swaylock```
-
-prompt : ```starship```
-
-terminal : ```alacritty```
-
-music visualizer : ```cava```
-
-shell : ```fish```
-
-file manager : ```thunar```
-
-launcher/power menu : ```rofi```
-
-btw for laucher and powermenu im using this [forked rofi](https://github.com/adi1090x/rofi)!
+btw for laucher and powermenu im using this [rofi forked!](https://github.com/adi1090x/rofi)!
 
 # Dependencies required
 
