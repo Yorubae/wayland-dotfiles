@@ -48,9 +48,10 @@ packages = ["fish", "alacritty", "neofetch", "cava", "waybar", "starship", "rofi
 def check_dependecy(package): #A function that checks for executeable file in the binary
     try:
         output = subprocess.check_output(['which', package])
-        return True
     except subprocess.CalledProcessError:
         return False
+    else:
+        return True
 
 #Checking out for the packages if its installed on the system
 for package in packages:
