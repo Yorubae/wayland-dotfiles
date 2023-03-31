@@ -32,7 +32,7 @@ def banner(): #Idk maybe just for some decoration hehe
 
 user = os.getlogin()
 config_path = f"/home/{user}/wayland-dotfiles/.config/" 
-system_config = f"/home/wayland-dotfiles/.config/"
+system_config = f"/home/{user}/.config/"
 backup_dir = f"/home/{user}/wayland-dotfiles/userprev_config"
 
 #Looks whether the repository exists on your Home Directory, I think its pretty unnecessary tho :/
