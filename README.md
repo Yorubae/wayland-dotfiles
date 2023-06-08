@@ -5,7 +5,7 @@ Also ,Im going to add a shell script that will automatically replace your config
 
 # What am i using?
 
-* compositor  : ```hyprland```  
+* wm/compositor  : ```hyprland```  
 * bar : ```waybar```  
 * text-editor : ```Nvim```  
 * session-locker : ```swaylock```  
